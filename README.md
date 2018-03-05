@@ -128,7 +128,7 @@ Após a instalação é necessário startar a aplicação usando o comando:
 
 Depois de startado o netdata estará disponível em `http://<IP>:<PORT>`, exemplo: http://180.200.5.10:4567
 
-<img src="https://cloud.githubusercontent.com/assets/2662304/19168687/f6a567be-8c19-11e6-8561-ce8d589e8346.gif"/>
+<img src="http://prntscr.com/in6eq0"/>
 
 
 
